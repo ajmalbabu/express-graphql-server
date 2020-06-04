@@ -11,7 +11,7 @@ and hit graphiql end point at http://localhost:5000/
 
 use below GraphQL queries to reteive data
 
-`
+```
 {
      launches {
         flight_number,
@@ -41,7 +41,7 @@ use below GraphQL queries to reteive data
       rocket_name
     }
   }
-`
+```
 
 ## Watch 5 part series on creating graphql server CRUD server with mutation [here](https://www.youtube.com/watch?v=PEcJxkylcRM)
 
