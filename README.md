@@ -7,7 +7,7 @@
 npm install
 npm run server
 
-and hit graphiql end point at http://localhost:5000/
+and hit graphiql end point at http://localhost:5000/graphql
 
 use below GraphQL queries to reteive data
 
