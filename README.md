@@ -4,6 +4,7 @@
 
 ## To run server
 
+npm install
 npm run server
 
 and hit graphiql end point at http://localhost:5000/
